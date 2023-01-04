@@ -1,0 +1,7 @@
+// __dirname
+// __filename
+// reuire
+// module
+// exports
+
+console.log(__filename);
